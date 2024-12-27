@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/azure341org/gitadd/_apis/build/status%2FRavi-hub-A.webapp?branchName=master)](https://dev.azure.com/azure341org/gitadd/_build/latest?definitionId=48&branchName=master)
